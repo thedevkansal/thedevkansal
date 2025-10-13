@@ -1,4 +1,6 @@
-<img src="banner.jpg" alt="Banner" width="100%">
+<p align="center">
+<img src="banner.jpg" alt="Banner" width="45%" height=400>
+</p>
 
 <h1 align="center"> 
 👋 Hola Amigo! Dev Kansal here
