@@ -1,23 +1,53 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey!+I+am+Dev+Kansal;Pre-Final+Year+@IIT+Roorkee;Full+Stack+Developer;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+
+<br>
+
+*learning in public, building in private.*
+
+</div>
+
+---
+
+```ts
+const currently = {
+  building: [
+    "full-stack applications",
+    "backend systems",
+    "real-world products"
+  ],
+
+  interestedIn: [
+    "distributed systems",
+    "system design",
+    "software engineering"
+  ]
+};
+```
+
+## ⚡ Tech Stack
+
 <p align="center">
-<img src="banner.jpg" alt="Banner" width="45%" height=400>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,postgres,mongodb,redis,supabase,docker,git,github,linux,postman,vscode,solidity,ethereum" />
 </p>
 
-<h1 align="center"> 
-👋 Hola Amigo! Dev Kansal here
-</h1>
+## 🌐 Connect 
 
 <p align="center">
-<b>Bridging Web2 and Web3, one commit at a time.</b>
+  <a href="mailto:dev_k@mt.iitr.ac.in">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/devkansal">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+    <a href="https://t.me/thedevkansal">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/thedevkansal">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" />
+  </a>
 </p>
-
-## 💻 Tech Stack
-
-![Ethereum](https://img.shields.io/badge/Ethereum-484c74?style=for-the-badge&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![RainbowKit](https://img.shields.io/badge/RainbowKit-0052FF?style=for-the-badge&logo=rainbow&logoColor=white) ![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white) ![Wagmi](https://img.shields.io/badge/Wagmi-6c3f9c?style=for-the-badge&logo=wagmi&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white) ![Chainlink](https://img.shields.io/badge/Chainlink-0646f7?style=for-the-badge&logo=chainlink&logoColor=white)
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devkansal/) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thedevkansal) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thedevkansal/)
